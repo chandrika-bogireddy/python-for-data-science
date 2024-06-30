@@ -19,14 +19,14 @@ Operators are symbols that perform operations on variables and values. Python su
 # 4. Strings
 Anything that is present inside single or double quotes are strings. Strings are immutable.
 <br>greeting = "Hello, World!"</br>
-<br><h3>string operations:</h3></br>
+<br><h2>Examples</h2></br>
 <br>Concatenation: "Hello, " + "World!"</br>
 <br>Slicing: greeting[0:5]</br>
 <br>Methods: upper(),lower()...etc</br>
 # 5. Lists
 Lists are ordered, mutable collections of items. They can contain elements of different data types.
 <br>fruits = ["apple", "banana", "cherry"]</br>
-<br><h3>List operations:</h3></br>
+<br><h2>Examples</h2></br>
 <br>Accessing elements: fruits[0]</br>
 <br>Modifying elements: fruits[1] = "blueberry"</br>
 <br>Adding elements: fruits.append("date")</br>
