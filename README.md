@@ -24,19 +24,15 @@ Operators are symbols that perform operations on variables and values. Python su
 
 # 4. Strings
 Anything that is present inside single or double quotes are strings. Strings are immutable.
-
 <br>greeting = "Hello, World!"</br>
-<br><h2>string operations:</h2></br>
-
+<br><h3>string operations:</h3></br>
 <br>Concatenation: "Hello, " + "World!"</br>
 <br>Slicing: greeting[0:5]</br>
 <br>Methods: upper(),lower()...etc</br>
-
 # 5. Lists
 Lists are ordered, mutable collections of items. They can contain elements of different data types.
-
 <br>fruits = ["apple", "banana", "cherry"]</br>
-<br>List operations:</br>
+<br><h3>List operations:</h3></br>
 <br>Accessing elements: fruits[0]</br>
 <br>Modifying elements: fruits[1] = "blueberry"</br>
 <br>Adding elements: fruits.append("date")</br>
@@ -46,14 +42,12 @@ Lists are ordered, mutable collections of items. They can contain elements of di
 
 # 6. Dictionaries
 Dictionaries are unordered, mutable collections of key-value pairs. They are often used to store related data.
-
 person = {
     "name": "Alice",
     "age": 30,
     "city": "New York"
 }
-<br>dictionary operations:</br>
-
+<br><h3>dictionary operations:</h3></br>
 <br>Accessing values: person["name"]</br>
 <br>Modifying values: person["age"] = 31</br>
 <br>Adding key-value pairs: person["email"] = "alice@example.com"</br>
