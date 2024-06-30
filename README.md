@@ -47,7 +47,7 @@ person = {
     "age": 30,
     "city": "New York"
 }
-<br><h3>dictionary operations:</h3></br>
+<br>Examples:-</br>
 <br>Accessing values: person["name"]</br>
 <br>Modifying values: person["age"] = 31</br>
 <br>Adding key-value pairs: person["email"] = "alice@example.com"</br>
