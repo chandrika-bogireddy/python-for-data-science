@@ -4,7 +4,7 @@ Python is a high-level, interpreted programming language. Python is widely used 
 
 # 1. Data Types
 Data types in Python specify the type of data that can be stored in a variable. Python has several built-in data types:
-Ex:-int,float,string,list,tuple, dictionary and etc
+<br>Ex:-int,float,string,list,tuple, dictionary and etc</br>
 
 # 2. Variables
 Variable is the name of the memory location where the data is stored. In Python, you do not need to declare the type of a variable explicitly. Variable names must start with a letter or an underscore, followed by letters, digits, or underscores.
@@ -26,7 +26,7 @@ Operators are symbols that perform operations on variables and values. Python su
 Anything that is present inside single or double quotes are strings. Strings are immutable.
 
 <br>greeting = "Hello, World!"</br>
-<br>string operations:</br>
+<br><h2>string operations:</h2></br>
 
 <br>Concatenation: "Hello, " + "World!"</br>
 <br>Slicing: greeting[0:5]</br>
