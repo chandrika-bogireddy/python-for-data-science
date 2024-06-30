@@ -16,7 +16,7 @@ name = "Alice"  # string
 # 3. Operators
 Operators are symbols that perform operations on variables and values. Python supports various types of operators:
 
-Arithmetic Operators: +, -, , /, %, * , //
+<br>Arithmetic Operators: +, -, , /, %, * , //</br>
 Comparison Operators: ==, !=, >, <, >=, <=
 Logical Operators: and, or, not
 Assignment Operators: =, +=, -=, =, /=, %=, *=, //=
